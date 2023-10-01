@@ -1,7 +1,7 @@
 var numField1 = document.getElementById('numField1');
 var numField2 = document.getElementById('numField2');
 var resultField = document.getElementById('resultField');
-var form = document.getElementById('xIsWhatPercentOfY');
+var form = document.getElementById('xIsWhatPercentOfYxxxxxxxxxxxxxx');
 
 form.addEventListener('submit', function(event) {
     
